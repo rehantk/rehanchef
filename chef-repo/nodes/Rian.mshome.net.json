@@ -1,0 +1,1718 @@
+{
+  "name": "Rian.mshome.net",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "automatic": {
+    "cpu": {
+      "0": {
+        "cores": 2,
+        "vendor_id": "GenuineIntel",
+        "family": "198",
+        "model": "10759",
+        "stepping": "7",
+        "physical_id": "CPU0",
+        "model_name": "Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz",
+        "description": "Intel64 Family 6 Model 42 Stepping 7",
+        "mhz": "2501",
+        "cache_size": "256 KB"
+      },
+      "total": 4,
+      "cores": 2,
+      "real": 1
+    },
+    "filesystem": {
+      "C:": {
+        "kb_size": 199124578,
+        "kb_available": 72819875,
+        "kb_used": 126304703,
+        "percent_used": 63,
+        "mount": "C:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "D:": {
+        "kb_size": 199229435,
+        "kb_available": 50587586,
+        "kb_used": 148641849,
+        "percent_used": 74,
+        "mount": "D:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "E:": {
+        "kb_size": 101645807,
+        "kb_available": 19651452,
+        "kb_used": 81994355,
+        "percent_used": 80,
+        "mount": "E:",
+        "fs_type": "ntfs",
+        "volume_name": ""
+      },
+      "F:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "F:",
+        "volume_name": null
+      },
+      "H:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "H:",
+        "volume_name": null
+      },
+      "I:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "I:",
+        "volume_name": null
+      }
+    },
+    "kernel": {
+      "os_info": {
+        "boot_device": "\\Device\\HarddiskVolume1",
+        "build_number": "7600",
+        "build_type": "Multiprocessor Free",
+        "caption": "Microsoft Windows 7 Ultimate ",
+        "code_set": "1252",
+        "country_code": "1",
+        "creation_class_name": "Win32_OperatingSystem",
+        "cs_creation_class_name": "Win32_ComputerSystem",
+        "csd_version": null,
+        "cs_name": "RIAN",
+        "current_time_zone": 330,
+        "data_execution_prevention_32_bit_applications": true,
+        "data_execution_prevention_available": true,
+        "data_execution_prevention_drivers": true,
+        "data_execution_prevention_support_policy": 2,
+        "debug": false,
+        "description": "Rian",
+        "distributed": false,
+        "encryption_level": 256,
+        "foreground_application_boost": 2,
+        "free_physical_memory": "1050804",
+        "free_space_in_paging_files": "3323388",
+        "free_virtual_memory": "3953600",
+        "install_date": "20130729170020.000000+330",
+        "large_system_cache": null,
+        "last_boot_up_time": "20170817142155.265064+330",
+        "local_date_time": "20170817220433.903000+330",
+        "locale": "0409",
+        "manufacturer": "Microsoft Corporation",
+        "max_number_of_processes": -1,
+        "max_process_memory_size": "8589934464",
+        "mui_languages": [
+          "en-US"
+        ],
+        "name": "Microsoft Windows 7 Ultimate |C:\\Windows|\\Device\\Harddisk0\\Partition2",
+        "number_of_licensed_users": 0,
+        "number_of_processes": 103,
+        "number_of_users": 2,
+        "operating_system_sku": 1,
+        "organization": "",
+        "os_architecture": "64-bit",
+        "os_language": 1033,
+        "os_product_suite": 256,
+        "os_type": 18,
+        "other_type_description": null,
+        "pae_enabled": null,
+        "plus_product_id": null,
+        "plus_version_number": null,
+        "primary": true,
+        "product_type": 1,
+        "registered_user": "Rian",
+        "serial_number": "00426-OEM-8992662-00537",
+        "service_pack_major_version": 0,
+        "service_pack_minor_version": 0,
+        "size_stored_in_paging_files": "4030956",
+        "status": "OK",
+        "suite_mask": 272,
+        "system_device": "\\Device\\HarddiskVolume2",
+        "system_directory": "C:\\Windows\\system32",
+        "system_drive": "C:",
+        "total_swap_space_size": null,
+        "total_virtual_memory_size": "8060012",
+        "total_visible_memory_size": "4030956",
+        "version": "6.1.7600",
+        "windows_directory": "C:\\Windows"
+      },
+      "name": "Microsoft Windows 7 Ultimate ",
+      "release": "6.1.7600",
+      "version": "6.1.7600  Build 7600",
+      "os": "WINNT",
+      "cs_info": {
+        "admin_password_status": 3,
+        "automatic_managed_pagefile": true,
+        "automatic_reset_boot_option": true,
+        "automatic_reset_capability": true,
+        "boot_option_on_limit": null,
+        "boot_option_on_watch_dog": null,
+        "boot_rom_supported": true,
+        "bootup_state": "Normal boot",
+        "caption": "RIAN",
+        "chassis_bootup_state": 2,
+        "creation_class_name": "Win32_ComputerSystem",
+        "current_time_zone": 330,
+        "daylight_in_effect": null,
+        "description": "AT/AT COMPATIBLE",
+        "dns_host_name": "Rian",
+        "domain": "WORKGROUP",
+        "domain_role": 0,
+        "enable_daylight_savings_time": true,
+        "front_panel_reset_status": 3,
+        "infrared_supported": false,
+        "initial_load_info": null,
+        "install_date": null,
+        "keyboard_password_status": 3,
+        "last_load_info": null,
+        "manufacturer": "LENOVO",
+        "model": "7827A36",
+        "name": "RIAN",
+        "name_format": null,
+        "network_server_mode_enabled": true,
+        "number_of_logical_processors": 4,
+        "number_of_processors": 1,
+        "oem_string_array": [
+          "IBM ThinkPad Embedded Controller -[8GHT24WW-1.060000]-"
+        ],
+        "part_of_domain": false,
+        "pause_after_reset": "-1",
+        "pc_system_type": 2,
+        "power_management_capabilities": null,
+        "power_management_supported": null,
+        "power_on_password_status": 3,
+        "power_state": 0,
+        "power_supply_state": 2,
+        "primary_owner_contact": null,
+        "primary_owner_name": "Rian",
+        "reset_capability": 1,
+        "reset_count": -1,
+        "reset_limit": -1,
+        "roles": [
+          "LM_Workstation",
+          "LM_Server",
+          "NT",
+          "Potential_Browser",
+          "Master_Browser"
+        ],
+        "status": "OK",
+        "support_contact_description": null,
+        "system_startup_delay": null,
+        "system_startup_options": null,
+        "system_startup_setting": null,
+        "system_type": "x64-based PC",
+        "thermal_state": 2,
+        "total_physical_memory": "4127698944",
+        "user_name": "RIAN\\Rian",
+        "wake_up_type": 6,
+        "workgroup": "WORKGROUP"
+      },
+      "machine": "x86_64"
+    },
+    "memory": {
+      "swap": {
+        "total": "4030956kB",
+        "free": "3323388kB"
+      },
+      "total": "4030956kB",
+      "free": "1049932kB"
+    },
+    "network": {
+      "interfaces": {
+        "0xd": {
+          "configuration": {
+            "ip_address": [
+              "192.168.43.188",
+              "fe80::8d06:5b52:6b31:239a"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000013] Intel(R) Centrino(R) Advanced-N 6205",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": [
+              "192.168.43.1"
+            ],
+            "default_tos": null,
+            "default_ttl": 64,
+            "description": "Intel(R) Centrino(R) Advanced-N 6205",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20170817225040.000000+330",
+            "dhcp_lease_obtained": "20170817215040.000000+330",
+            "dhcp_server": "192.168.43.1",
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "Rian",
+            "dns_server_search_order": [
+              "192.168.43.1"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": [
+              0
+            ],
+            "igmp_level": null,
+            "index": 13,
+            "interface_index": 13,
+            "ip_connection_metric": 25,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "A0:88:B4:8E:87:B0",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "NETwNs64",
+            "setting_id": "{9D584426-6F93-4331-8378-4A5D8B325626}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000013] Intel(R) Centrino(R) Advanced-N 6205",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Intel(R) Centrino(R) Advanced-N 6205",
+            "device_id": "13",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{9D584426-6F93-4331-8378-4A5D8B325626}",
+            "index": 13,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 13,
+            "last_error_code": null,
+            "mac_address": "A0:88:B4:8E:87:B0",
+            "manufacturer": "Intel Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Intel(R) Centrino(R) Advanced-N 6205",
+            "net_connection_id": "Wireless Network Connection",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "PCI\\VEN_8086&DEV_0085&SUBSYS_13118086&REV_34\\4&3353C078&0&00E1",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Intel(R) Centrino(R) Advanced-N 6205",
+            "service_name": "NETwNs64",
+            "speed": "72000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "RIAN",
+            "time_of_last_reset": "20170817142155.265064+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.43.188": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.43.255",
+              "family": "inet"
+            },
+            "fe80::8d06:5b52:6b31:239a": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "A0:88:B4:8E:87:B0": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.43.1": "4e:1a:3d:4a:61:24",
+            "192.168.43.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x2a": {
+          "configuration": {
+            "ip_address": [
+              "10.0.0.1",
+              "fe80::3de2:a876:3e4a:633d"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000044] VMware Virtual Ethernet Adapter for VMnet8",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": 64,
+            "description": "VMware Virtual Ethernet Adapter for VMnet8",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "Rian",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 44,
+            "interface_index": 42,
+            "ip_connection_metric": 20,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "00:50:56:C0:00:08",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VMnetAdapter",
+            "setting_id": "{B3E1F148-95C5-4554-AC6D-9B7ABE90BD52}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000044] VMware Virtual Ethernet Adapter for VMnet8",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VMware Virtual Ethernet Adapter for VMnet8",
+            "device_id": "44",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{B3E1F148-95C5-4554-AC6D-9B7ABE90BD52}",
+            "index": 44,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 42,
+            "last_error_code": null,
+            "mac_address": "00:50:56:C0:00:08",
+            "manufacturer": "VMware, Inc.",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VMware Virtual Ethernet Adapter for VMnet8",
+            "net_connection_id": "VMware Network Adapter VMnet8",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\VMWARE\\0001",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VMware Virtual Ethernet Adapter for VMnet8",
+            "service_name": "VMnetAdapter",
+            "speed": "100000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "RIAN",
+            "time_of_last_reset": "20170817142155.265064+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "10.0.0.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "10.0.0.255",
+              "family": "inet"
+            },
+            "fe80::3de2:a876:3e4a:633d": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "00:50:56:C0:00:08": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "10.0.0.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x2c": {
+          "configuration": {
+            "ip_address": [
+              "192.168.245.1"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000046] VMware Virtual Ethernet Adapter for VMnet1",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": 64,
+            "description": "VMware Virtual Ethernet Adapter for VMnet1",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20170817223127.000000+330",
+            "dhcp_lease_obtained": "20170817220127.000000+330",
+            "dhcp_server": "192.168.245.254",
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "Rian",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 46,
+            "interface_index": 44,
+            "ip_connection_metric": 20,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "00:50:56:C0:00:01",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VMnetAdapter",
+            "setting_id": "{FF177AF8-8FEE-4022-BF56-4D43B5C90EEE}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000046] VMware Virtual Ethernet Adapter for VMnet1",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VMware Virtual Ethernet Adapter for VMnet1",
+            "device_id": "46",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{FF177AF8-8FEE-4022-BF56-4D43B5C90EEE}",
+            "index": 46,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 44,
+            "last_error_code": null,
+            "mac_address": "00:50:56:C0:00:01",
+            "manufacturer": "VMware, Inc.",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VMware Virtual Ethernet Adapter for VMnet1",
+            "net_connection_id": "VMware Network Adapter VMnet1",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\VMWARE\\0000",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VMware Virtual Ethernet Adapter for VMnet1",
+            "service_name": "VMnetAdapter",
+            "speed": "100000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "RIAN",
+            "time_of_last_reset": "20170817142155.265064+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.245.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.245.255",
+              "family": "inet"
+            },
+            "00:50:56:C0:00:01": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.245.254": "00:50:56:ff:6d:bb",
+            "192.168.245.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x2f": {
+          "configuration": {
+            "ip_address": [
+              "169.254.124.214",
+              "fe80::81ac:e201:5c9e:7cd6"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000047] VirtualBox Host-Only Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": 64,
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": "255.255.255.255",
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "Rian",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 47,
+            "interface_index": 47,
+            "ip_connection_metric": 10,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.0.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "0A:00:27:00:00:2F",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VBoxNetAdp",
+            "setting_id": "{94DAEBAC-D279-42AD-9085-93C0CBC9AC2F}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000047] VirtualBox Host-Only Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "device_id": "47",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{94DAEBAC-D279-42AD-9085-93C0CBC9AC2F}",
+            "index": 47,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 47,
+            "last_error_code": null,
+            "mac_address": "0A:00:27:00:00:2F",
+            "manufacturer": "Oracle Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VirtualBox Host-Only Ethernet Adapter",
+            "net_connection_id": "VirtualBox Host-Only Network",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\NET\\0000",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VirtualBox Host-Only Ethernet Adapter",
+            "service_name": "VBoxNetAdp",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "RIAN",
+            "time_of_last_reset": "20170817142155.265064+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "169.254.124.214": {
+              "prefixlen": "16",
+              "netmask": "255.255.0.0",
+              "broadcast": "169.254.255.255",
+              "family": "inet"
+            },
+            "fe80::81ac:e201:5c9e:7cd6": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "0A:00:27:00:00:2F": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "169.254.255.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x3f": {
+          "configuration": {
+            "ip_address": [
+              "192.168.99.1",
+              "fe80::2186:dfa:50b2:f553"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000065] VirtualBox Host-Only Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": 64,
+            "description": "VirtualBox Host-Only Ethernet Adapter #3",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "Rian",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 65,
+            "interface_index": 63,
+            "ip_connection_metric": 10,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "0A:00:27:00:00:3F",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VBoxNetAdp",
+            "setting_id": "{10E9FA91-E3AA-456A-994A-1E684270016E}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000065] VirtualBox Host-Only Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "device_id": "65",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{10E9FA91-E3AA-456A-994A-1E684270016E}",
+            "index": 65,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 63,
+            "last_error_code": null,
+            "mac_address": "0A:00:27:00:00:3F",
+            "manufacturer": "Oracle Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VirtualBox Host-Only Ethernet Adapter #3",
+            "net_connection_id": "VirtualBox Host-Only Network #3",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\NET\\0002",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VirtualBox Host-Only Ethernet Adapter",
+            "service_name": "VBoxNetAdp",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "RIAN",
+            "time_of_last_reset": "20170817142155.265064+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.99.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.99.255",
+              "family": "inet"
+            },
+            "fe80::2186:dfa:50b2:f553": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "0A:00:27:00:00:3F": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.99.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        }
+      },
+      "default_gateway": "192.168.43.1",
+      "default_interface": "0xd"
+    },
+    "counters": {
+      "network": {
+
+      }
+    },
+    "ipaddress": "192.168.43.188",
+    "macaddress": "A0:88:B4:8E:87:B0",
+    "ip6address": "fe80::2186:dfa:50b2:f553",
+    "os": "windows",
+    "os_version": "6.1.7600",
+    "platform": "windows",
+    "platform_version": "6.1.7600",
+    "platform_family": "windows",
+    "uptime_seconds": 27773,
+    "uptime": "7 hours 42 minutes 53 seconds",
+    "virtualization": {
+      "systems": {
+
+      }
+    },
+    "languages": {
+      "java": {
+        "version": "1.8.0_66",
+        "runtime": {
+          "name": "Java(TM) SE Runtime Environment",
+          "build": "1.8.0_66-b17"
+        },
+        "hotspot": {
+          "name": "Java HotSpot(TM) 64-Bit Server VM",
+          "build": "25.66-b17, mixed mode"
+        }
+      },
+      "perl": {
+        "version": "5.8.8",
+        "archname": "msys-64int"
+      },
+      "powershell": {
+        "version": "2.0",
+        "ws_man_stack_version": "2.0",
+        "serialization_version": "1.1.0.1",
+        "clr_version": "2.0.50727.4927",
+        "build_version": "6.1.7600.16385",
+        "compatible_versions": [
+          "1.0",
+          "2.0"
+        ],
+        "remoting_protocol_version": "2.1"
+      },
+      "ruby": {
+        "platform": "i386-mingw32",
+        "version": "2.4.1",
+        "release_date": "2017-03-22",
+        "target": "i386-w64-mingw32",
+        "target_cpu": "i386",
+        "target_vendor": "w64",
+        "target_os": "mingw32",
+        "host": "i686-w64-mingw32",
+        "host_cpu": "i686",
+        "host_os": "mingw32",
+        "host_vendor": "w64",
+        "bin_dir": "C:/opscode/chefdk/embedded/bin",
+        "ruby_bin": "C:/opscode/chefdk/embedded/bin/ruby",
+        "gems_dir": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.4.0",
+        "gem_bin": "C:/opscode/chefdk/embedded/bin/gem"
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "13.2.20",
+        "chef_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.4.0/gems/chef-13.2.20-universal-mingw32/lib"
+      },
+      "ohai": {
+        "version": "13.2.0",
+        "ohai_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.4.0/gems/ohai-13.2.0/lib/ohai"
+      }
+    },
+    "dmi": {
+
+    },
+    "cloud_v2": null,
+    "cloud": null,
+    "command": {
+
+    },
+    "hostname": "Rian",
+    "machinename": "RIAN",
+    "fqdn": "Rian.mshome.net",
+    "domain": "mshome.net",
+    "keys": {
+      "ssh": {
+
+      }
+    },
+    "fips": {
+      "kernel": {
+        "enabled": false
+      }
+    },
+    "ohai_time": 1502987698.802829,
+    "packages": {
+      "Windows Driver Package - Google, Inc. (WinUSB) AndroidUsbDeviceClass  (08/28/2014 11.0.0000.00000)": {
+        "version": "08/28/2014 11.0.0000.00000",
+        "publisher": "Google, Inc."
+      },
+      "AutoHotkey 1.1.09.04": {
+        "version": "1.1.09.04",
+        "publisher": "Lexikos"
+      },
+      "AVG": {
+        "version": "1.116.3.1052",
+        "publisher": "AVG Technologies"
+      },
+      "CutePDF Writer 3.0": {
+        "version": " 3.0",
+        "publisher": "CutePDF.com"
+      },
+      "Git version 2.8.1": {
+        "version": "2.8.1",
+        "publisher": "The Git Development Community",
+        "installdate": "20161124"
+      },
+      "Lenovo System Interface Driver": {
+        "version": "1.05"
+      },
+      "Lenovo Auto Scroll Utility": {
+        "version": "1.10"
+      },
+      "On Screen Display": {
+        "version": "6.60.01"
+      },
+      "ThinkPad Power Management Driver": {
+        "version": "1.64.00.00"
+      },
+      "Intel PROSet Wireless": {
+
+      },
+      "Reimage Repair": {
+        "version": "1.8.2.6",
+        "publisher": "Reimage"
+      },
+      "ThinkPad FullScreen Magnifier": {
+        "version": "2.40"
+      },
+      "WinRAR 4.00 (64-bit)": {
+        "version": "4.00.0",
+        "publisher": "win.rar GmbH"
+      },
+      "VMware Workstation": {
+        "version": "9.0.0",
+        "publisher": "VMware, Inc",
+        "installdate": "197011"
+      },
+      "AVG Zen": {
+        "version": "1.116.2",
+        "publisher": "AVG Technologies",
+        "installdate": "20170418"
+      },
+      "Microsoft .NET Framework 4.5": {
+        "version": "4.5.50709",
+        "publisher": "Microsoft Corporation"
+      },
+      "Java 8 Update 66 (64-bit)": {
+        "version": "8.0.660.18",
+        "publisher": "Oracle Corporation",
+        "installdate": "20160107"
+      },
+      "Lenovo Patch Utility 64 bit": {
+        "version": "1.2.0.1",
+        "publisher": "Lenovo Group Limited",
+        "installdate": "20130729"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148": {
+        "version": "9.0.30729.4148",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151026"
+      },
+      "Java SE Development Kit 8 Update 66 (64-bit)": {
+        "version": "8.0.660.17",
+        "publisher": "Oracle Corporation",
+        "installdate": "20160229"
+      },
+      "Microsoft Visual C++ 2005 Redistributable (x64)": {
+        "version": "8.0.50727.42",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130801"
+      },
+      "Oracle VM VirtualBox 5.0.20": {
+        "version": "5.0.20",
+        "publisher": "Oracle Corporation",
+        "installdate": "20160625"
+      },
+      "NetSpeedMonitor 2.5.4.0 x64": {
+        "version": "2.5.4.0",
+        "publisher": "Florian Gilles",
+        "installdate": "20150129"
+      },
+      "TortoiseSVN 1.9.2.26806 (64 bit)": {
+        "version": "1.9.26806",
+        "publisher": "TortoiseSVN",
+        "installdate": "20151107"
+      },
+      "Microsoft Virtual PC 2007": {
+        "version": "6.0.156.0",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151026"
+      },
+      "Visual Studio 2012 x64 Redistributables": {
+        "version": "14.0.0.1",
+        "publisher": "AVG Technologies",
+        "installdate": "20160107"
+      },
+      "Microsoft Office Office 64-bit Components 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Shared 64-bit MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Shared 64-bit Setup Metadata MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160226"
+      },
+      "Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160226"
+      },
+      "Intel(R) PROSet/Wireless WiFi Software": {
+        "version": "13.04.0000",
+        "publisher": "Intel Corporation",
+        "installdate": "20130729"
+      },
+      "FMW 1": {
+        "version": "1.143.3",
+        "publisher": "AVG Technologies",
+        "installdate": "20170125"
+      },
+      "Docker Toolbox version 1.11.1": {
+        "version": "1.11.1",
+        "publisher": "Docker",
+        "installdate": "20160625"
+      },
+      "Adobe Flash Player 11 ActiveX": {
+        "version": "11.8.800.94",
+        "publisher": "Adobe Systems Incorporated"
+      },
+      "Adobe Flash Player 11 Plugin": {
+        "version": "11.8.800.94",
+        "publisher": "Adobe Systems Incorporated"
+      },
+      "Adobe Photoshop 7.0": {
+        "version": "7.0",
+        "publisher": "Adobe Systems, Inc."
+      },
+      "Microsoft Age of Empires II": {
+
+      },
+      "Microsoft Age of Empires II: The Conquerors Expansion": {
+
+      },
+      "BurnAware Free 3.1.1": {
+        "publisher": "Burnaware Technologies",
+        "installdate": "20140405"
+      },
+      "Cisco Packet Tracer 6.0": {
+        "publisher": "Cisco Systems, Inc.",
+        "installdate": "20131009"
+      },
+      "DAEMON Tools Pro": {
+        "version": "5.2.0.0348",
+        "publisher": "DT Soft Ltd"
+      },
+      "DEVIL MAY CRY 4": {
+        "installdate": "20140319"
+      },
+      "FileZilla Client 3.27.1": {
+        "version": "3.27.1",
+        "publisher": "Tim Kosse"
+      },
+      "FruityLoops v3.56 Full": {
+
+      },
+      "Game Booster": {
+        "version": "1.2.2.0",
+        "publisher": "IObit",
+        "installdate": "20131114"
+      },
+      "GameSpy Arcade": {
+
+      },
+      "GetFoldersize 3.1.6": {
+        "version": "3.1.6",
+        "publisher": "Michael Thummerer Software Design",
+        "installdate": "20160722"
+      },
+      "Google Chrome": {
+        "version": "60.0.3112.90",
+        "publisher": "Google Inc.",
+        "installdate": "20150128"
+      },
+      "Hitman 2 Silent Assassin": {
+
+      },
+      "IGI 2": {
+
+      },
+      "Panasonic USB Driver": {
+        "version": "1.00.0000",
+        "publisher": "Panasonic USB driver",
+        "installdate": "20160628"
+      },
+      "CoolPad_USB_Drivers": {
+        "version": "1.00.0000",
+        "publisher": "Your Company Name",
+        "installdate": "20131211"
+      },
+      "PC Remote Receiver": {
+        "version": "5.1.3.0",
+        "publisher": "monect.com"
+      },
+      "Mozilla Firefox 47.0.2 (x86 en-US)": {
+        "version": "47.0.2",
+        "publisher": "Mozilla"
+      },
+      "Mozilla Maintenance Service": {
+        "version": "47.0.2.6148",
+        "publisher": "Mozilla"
+      },
+      "Notepad++": {
+        "version": "6.9",
+        "publisher": "Notepad++ Team"
+      },
+      "Microsoft Office Professional Plus 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Opera 12.15": {
+        "version": "12.15.1748",
+        "publisher": "Opera Software ASA"
+      },
+      "PdaNet+ for Android 4.19": {
+        "publisher": "June Fabrics Technology Inc",
+        "installdate": "20160711"
+      },
+      "PowerISO": {
+        "version": "5.7",
+        "publisher": "Power Software Ltd"
+      },
+      "Project IGI": {
+
+      },
+      "PuTTY release 0.66": {
+        "version": "0.66",
+        "publisher": "Simon Tatham",
+        "installdate": "20151117"
+      },
+      "Re-Volt": {
+
+      },
+      "Return to Castle Wolfenstein": {
+        "version": "1.0",
+        "publisher": "Activision, Inc."
+      },
+      "SaveSense (remove only)": {
+        "version": "5.3.0.6",
+        "publisher": "SaveSense"
+      },
+      "Shadowrun Returns": {
+        "publisher": "Harebrained Holdings",
+        "installdate": "20140319"
+      },
+      "SHAREit": {
+        "version": "3.2.0.471",
+        "publisher": "Lenovo",
+        "installdate": "20160408"
+      },
+      "Soldier of Fortune": {
+
+      },
+      "Super Mario 3 : Mario Forever": {
+
+      },
+      "TeamViewer 12": {
+        "version": "12.0.72365",
+        "publisher": "TeamViewer"
+      },
+      "The KMPlayer (remove only)": {
+
+      },
+      "TightVNC 1.3.10": {
+        "version": "1.3.10",
+        "publisher": "TightVNC Group",
+        "installdate": "20161114"
+      },
+      "Transcend JetFlash Recovery Tool": {
+        "version": "1.0.20",
+        "publisher": "Transcend Information, Inc."
+      },
+      "UnLock Root 3.1.3": {
+        "version": "3.1.3",
+        "publisher": "Unlcokroot"
+      },
+      "UnLock Root Pro 4.1": {
+        "version": "4.1",
+        "publisher": "Unlcokroot"
+      },
+      "YGDP_Customer": {
+        "publisher": "YULONG, Inc."
+      },
+      "YouWave for Android": {
+
+      },
+      "tools-freebsd": {
+        "version": "9.2.0.812388",
+        "publisher": "VMware, Inc.",
+        "installdate": "20151026"
+      },
+      "DroidPad 1.2": {
+        "version": "1.0",
+        "publisher": "Digitalsquid",
+        "installdate": "20140109"
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501": {
+        "version": "12.0.30501.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160226"
+      },
+      "tools-netware": {
+        "version": "9.2.0.812388",
+        "publisher": "VMware, Inc.",
+        "installdate": "20151026"
+      },
+      "Wondershare Dr.Fone for Android(Build 6.1.0.26)": {
+        "version": "6.1.0.26",
+        "publisher": "Wondershare Software Co.,Ltd.",
+        "installdate": "20160710"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148": {
+        "version": "9.0.30729.4148",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151026"
+      },
+      "Google Talk (remove only)": {
+
+      },
+      "Lenovo Patch Utility": {
+        "version": "1.0.1.1",
+        "publisher": "Lenovo Group Limited",
+        "installdate": "20130729"
+      },
+      "SRS-Root": {
+        "publisher": "123Unlock GSM Service",
+        "installdate": "20140522"
+      },
+      "JMicron Flash Media Controller Driver": {
+        "version": "1.0.55.0",
+        "publisher": "JMicron Technology Corp."
+      },
+      "Minimal ADB and Fastboot version 1.3.1": {
+        "version": "1.3.1",
+        "publisher": "Sam Rodberg",
+        "installdate": "20160711"
+      },
+      "MiniTool Partition Wizard Professional Edition 8.1": {
+        "publisher": "MiniTool Solution Ltd.",
+        "installdate": "20161205"
+      },
+      "GetDataBack for FAT": {
+        "version": "4.00.001",
+        "publisher": "Runtime Software",
+        "installdate": "11/30/2013"
+      },
+      "Hitman - Contracts v 1.0.0.174": {
+        "publisher": "Troyan",
+        "installdate": "20130813"
+      },
+      "Java Auto Updater": {
+        "version": "2.8.66.18",
+        "publisher": "Oracle Corporation",
+        "installdate": "20160107"
+      },
+      "Ultimate Control version 1.2": {
+        "version": "1.2",
+        "publisher": "NEGU Soft",
+        "installdate": "20141010"
+      },
+      "Cisco LEAP Module": {
+        "version": "1.0.19",
+        "publisher": "Cisco Systems, Inc.",
+        "installdate": "20130729"
+      },
+      "Jenkins 2.10": {
+        "version": "0.2.10",
+        "publisher": "Jenkins project",
+        "installdate": "20160623"
+      },
+      "Google Update Helper": {
+        "version": "1.3.23.0",
+        "publisher": "SaveSense",
+        "installdate": "20140123"
+      },
+      "Cisco EAP-FAST Module": {
+        "version": "2.2.14",
+        "publisher": "Cisco Systems, Inc.",
+        "installdate": "20130729"
+      },
+      "USB Network Driver": {
+        "version": "2007.07.3"
+      },
+      "USB Dual Vibration Joystick": {
+        "version": "1.00.0000",
+        "publisher": "GASIA",
+        "installdate": "20140915"
+      },
+      "Microsoft Office Access MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Excel MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office PowerPoint MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Publisher MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Outlook MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Word MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Proof (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Proof (French) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Proof (Spanish) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Proofing (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office InfoPath MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Shared MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office OneNote MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Groove MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Shared Setup Metadata MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Microsoft Office Access Setup Metadata MUI (English) 2010": {
+        "version": "14.0.4734.1000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130905"
+      },
+      "Visual Studio 2012 x86 Redistributables": {
+        "version": "14.0.0.1",
+        "publisher": "AVG Technologies CZ, s.r.o.",
+        "installdate": "20160107"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161": {
+        "version": "9.0.30729.6161",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20131221"
+      },
+      "ThinkPad Wireless LAN Adapter Software": {
+        "version": "1.00.0029.8",
+        "publisher": "REALTEK Semiconductor Corp.",
+        "installdate": "20130729"
+      },
+      "Chef Development Kit v2.0.28": {
+        "version": "2.0.28.1",
+        "publisher": "Chef Software, Inc.",
+        "installdate": "20170802"
+      },
+      "GOD OF WAR II": {
+        "version": "1.0",
+        "publisher": "Maikolik Games 2011",
+        "installdate": "20140319"
+      },
+      "Microsoft Visual C++ 2005 Redistributable": {
+        "version": "8.0.50727.42",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20130801"
+      },
+      "tools-solaris": {
+        "version": "9.2.0.812388",
+        "publisher": "VMware, Inc.",
+        "installdate": "20151026"
+      },
+      "Adobe Reader XI (11.0.03)": {
+        "version": "11.0.03",
+        "publisher": "Adobe Systems Incorporated",
+        "installdate": "20130801"
+      },
+      "Vagrant": {
+        "version": "1.9.7",
+        "publisher": "HashiCorp",
+        "installdate": "20170807"
+      },
+      "tools-winPre2k": {
+        "version": "9.2.0.812388",
+        "publisher": "VMware, Inc.",
+        "installdate": "20151026"
+      },
+      "Integrated Camera Driver Installer Package Ver.1.1.0.1132": {
+        "version": "1.1.0.1132",
+        "publisher": "RICOH",
+        "installdate": "20130729"
+      },
+      "Skype Click to Call": {
+        "version": "5.10.9560",
+        "publisher": "Skype Technologies S.A.",
+        "installdate": "20131001"
+      },
+      "DDR - Pen Drive Recovery(Demo)": {
+        "version": "5.4.1.2",
+        "publisher": "Pro Data Doctor Pvt. Ltd.",
+        "installdate": "20140526"
+      },
+      "ISO to USB": {
+        "publisher": "isotousb.com",
+        "installdate": "20131224"
+      },
+      "tools-linux": {
+        "version": "9.2.0.812388",
+        "publisher": "VMware, Inc.",
+        "installdate": "20151026"
+      },
+      "MouseServer version 1.5.0.0": {
+        "version": "1.5.0.0",
+        "publisher": "Necta Co.",
+        "installdate": "20140123"
+      },
+      "Cisco PEAP Module": {
+        "version": "1.1.6",
+        "publisher": "Cisco Systems, Inc.",
+        "installdate": "20130729"
+      },
+      "Realtek High Definition Audio Driver": {
+        "version": "6.0.1.6602",
+        "publisher": "Realtek Semiconductor Corp."
+      },
+      "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501": {
+        "version": "12.0.30501.0",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005": {
+        "version": "12.0.21005",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20160226"
+      },
+      "Skype™ 7.17": {
+        "version": "7.17.106",
+        "publisher": "Skype Technologies S.A.",
+        "installdate": "20160103"
+      },
+      "tools-windows": {
+        "version": "9.2.0.812388",
+        "publisher": "VMware, Inc.",
+        "installdate": "20151026"
+      }
+    },
+    "root_group": "Administrators",
+    "time": {
+      "timezone": "India Standard Time"
+    },
+    "recipes": [
+
+    ],
+    "expanded_run_list": [
+
+    ],
+    "roles": [
+
+    ]
+  }
+}
